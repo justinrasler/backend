@@ -1,0 +1,14 @@
+[
+    {
+      "name": "project1",
+      "live": "https://app.herokuapp.com/whatever",
+      "git": "https://github.com/justinrasler/justinrasler.github.io",
+      "image": "https://img.rankedboost.com/wp-content/uploads/2017/09/Pokemon-GO-GEN-4-Pokedex.png"
+    },
+    {
+      "name": "project2",
+      "live": "https://justinrasler-project2.herokuapp.com/",
+      "git": "https://github.com/justinrasler/ringo-project2",
+      "image": "http://www.imgur.com/pictureofproject.png"
+    }
+  ]
